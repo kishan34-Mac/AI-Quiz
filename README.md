@@ -1,4 +1,8 @@
- KISHAN SINGH
+<div align="center">
+
+# <span style="font-size:42px; font-family:Orbitron; color:#00F0FF;">⚡ KISHAN SINGH ⚡</span>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;Cyberpunk+Tech+Maker;Building+Neon+Digital+Experiences" />
 
 ---
 
@@ -11,16 +15,15 @@
 
 ---
 
-## 👨‍💻 About Me — *“Code is my city. I build the neon inside it.”*
+## 👨‍💻 About Me — *“Code is my neon city.”*
 
 I’m **Kishan Singh**, a **Full Stack Developer** who blends futuristic UI design with powerful backend logic.  
-I love building projects that feel **fast, alive, immersive, and engineered for scale**.
+I create apps that feel **fast, immersive, and engineered for real-world performance**.
 
-- Crafting **AI-integrated full-stack apps** with neon-styled UIs  
-- Exploring **backend performance, architecture patterns, and API engineering**  
-- Obsessed with **React ecosystems**, micro-animations, and futuristic UI design  
-- Currently leveling up in **Node.js, Express.js, TypeScript & system design**  
-- Ask me about **frontend motion**, **backend flows**, or building anything from scratch  
+- Building **AI-integrated full-stack apps**  
+- Passionate about **backend architecture, APIs & optimization**  
+- Love creating **animated interfaces** with cyberpunk styling  
+- Currently exploring **TypeScript, Express.js, and scalable systems**  
 
 ---
 
@@ -32,10 +35,7 @@ I love building projects that feel **fast, alive, immersive, and engineered for 
 
 ---
 
-## 💠 My Cyberpunk Portfolio
-
-Experience my neon world:
-
+## 💠 Cyberpunk Portfolio
 👉 **https://kishan-kishan34-cpus-projects.vercel.app/**
 
 ---
@@ -54,10 +54,10 @@ Experience my neon world:
 
 ## 🧬 Current Missions
 
-- ⚡ Crafting AI-powered full-stack tools  
-- 🔥 Building scalable backend systems with clean architecture  
-- 🧠 Studying advanced TypeScript + performance-driven APIs  
-- 🛰 Exploring real-time features & system design patterns  
+- ⚡ Building AI-powered full-stack tools  
+- 🔥 Developing scalable backend systems  
+- 🧠 Mastering TypeScript & API performance  
+- 🛰 Exploring real-time systems & architecture patterns  
 
 ---
 
@@ -65,13 +65,12 @@ Experience my neon world:
 
 - **LinkedIn:** https://www.linkedin.com/in/your-linkedin  
 - **Email:** your.email@example.com  
-- **Collab:** Open to freelance & high-impact full-stack projects  
 
 ---
 
 ## 💫 Fun Fact
 
-> *I don’t just build applications… I build worlds where code glows, moves, and breathes.*
+> *I don’t just code apps — I create neon-powered digital experiences.*
 
 ---
 
