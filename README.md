@@ -1,77 +1,84 @@
- 
 <div align="center">
 
-# Hi, I’m Anshumesh 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Kishan+Singh;Full+Stack+Developer;Backend+Engineer+%7C+System+Builder;Cyberpunk+Developer+Vibes+⚡" />
 
-[![Website Badge](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://kishan-kishan34-cpus-projects.vercel.app/)  
-[![LinkedIn](https://img.shields.io/badge/Connect-on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
-[![Email](https://img.shields.io/badge/Contact-Me-via-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+---
+
+### ⚡ Cyberpunk Portfolio • Neon Mode Activated  
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](https://kishan-kishan34-cpus-projects.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-ff00ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-8B00FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me — *“Code is my city. I build the neon inside it.”*
 
-I’m **Anshumesh Saini**, a software engineer, full-stack developer, and freelancer. I build **interactive web applications** using **JavaScript**, **Python**, and **MySQL**, focusing on beautiful UIs, animations, and real-world apps.
+I’m **Kishan Singh**, a **Full Stack Developer** who blends futuristic UI design with powerful backend logic.  
+I love building projects that feel **fast, alive, immersive, and engineered for scale**.
 
-- I’m currently working on cloning platforms like **Flipkart** and **YouTube**, creating animated portfolios, and improving school management systems.  
-- I’m open to **creative frontend/full-stack projects** — especially those involving animations and interactivity.  
-- I need support with **scaling backend systems** and applying **advanced algorithms** for efficient web applications.  
-- Right now, I'm learning **Express.js**, **API integrations**, and deeper backend architecture.  
-- Want to ask me about **frontend animations**, building clones of popular websites, or tips on web development? I got you.  
-- **Fun fact:** I love combining coding challenges with my adventurous spirit — life’s too short for boring projects!
-
----
-
-## 🔭 My Portfolio
-
-Check out my live portfolio to see my work:
-
-[👉 My Portfolio Website](https://kishan-kishan34-cpus-projects.vercel.app/)  
+- Crafting **AI-integrated full-stack apps** with neon-styled UIs  
+- Exploring **backend performance, architecture patterns, and API engineering**  
+- Obsessed with **React ecosystems**, micro-animations, and futuristic UI design  
+- Currently leveling up in **Node.js, Express.js, TypeScript & system design**  
+- Ask me about **frontend motion**, **backend flows**, or building anything from scratch  
 
 ---
 
-## 🛠️ My Tech Stack
+## ⚡ Tech Stack — *Neon Powered Arsenal*
 
-| Frontend        | Backend        | Database | Tools & Deployment                  |
-|-----------------|----------------|----------|-------------------------------------|
-| React, JS, CSS, HTML | Python, Express.js | MySQL    | Vite, Git, GitHub, Vercel         |
-
----
-
-## 📊 GitHub Stats
-
-[![Anshumesh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshumeshsaini&show_icons=true&theme=radical)](https://github.com/anshumeshsaini)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshumeshsaini&layout=compact&theme=radical)](https://github.com/anshumeshsaini)
+| ⚔️ Frontend | 🛡️ Backend | 💾 Database | 🧪 Tools / Deployment |
+|------------|-----------|-------------|------------------------|
+| React, Vite, Tailwind, Framer Motion | Node.js, Express.js | MongoDB, MySQL | Git, GitHub, Vercel, Postman |
 
 ---
 
-## 🔭 Current Projects & Learning Goals
+## 💠 My Cyberpunk Portfolio
 
-- Building more complex **website clones** — including large-scale apps like e-commerce and video platforms  
-- **Improving backend architecture** and performance  
-- Exploring **API-first design** and scalable full-stack patterns  
-- Learning **Express.js**, **TypeScript**, and **advanced data structures / algorithms**
+Experience my neon world:
+
+👉 **https://kishan-kishan34-cpus-projects.vercel.app/**
 
 ---
 
-## 📫 How to Reach Me
+## 🔥 GitHub Stats — *Systems Online*
 
-- **LinkedIn:** [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/your-linkedin)  
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kishan34-mac&show_icons=true&theme=tokyonight&icon_color=00f0ff&title_color=00f0ff" width="55%" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan34-mac&layout=compact&theme=tokyonight&title_color=ff00ff" width="45%" />
+
+</div>
+
+---
+
+## 🧬 Current Missions
+
+- ⚡ Crafting AI-powered full-stack tools  
+- 🔥 Building scalable backend systems with clean architecture  
+- 🧠 Studying advanced TypeScript + performance-driven APIs  
+- 🛰 Exploring real-time features & system design patterns  
+
+---
+
+## 📡 Contact the Network
+
+- **LinkedIn:** https://www.linkedin.com/in/your-linkedin  
 - **Email:** your.email@example.com  
-- **Freelance / Collaboration:** Feel free to reach out if you want to build something exciting together!
+- **Collab:** Open to freelance & high-impact full-stack projects  
 
 ---
 
-## 💬 Fun Fact
+## 💫 Fun Fact
 
-I believe in pairing creativity with logic — whether that’s through animated UI or elegant backend solutions, every line of code is a small adventure.
+> *I don’t just build applications… I build worlds where code glows, moves, and breathes.*
 
 ---
 
 <div align="center">
 
-![Neon Code Banner](https://raw.githubusercontent.com/anshumeshsaini/anshumeshsaini/main/banner.png)  
+<img src="https://i.ibb.co/VY2p5Qf/cyberpunk-banner.gif" width="100%" />
 
 </div>
